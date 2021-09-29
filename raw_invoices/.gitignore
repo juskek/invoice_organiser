@@ -1,4 +1,6 @@
-# ignore all files in this folder
+# ignore all files in this folder 
 *
 # include .gitignore file
 !.gitignore
+# include BUILD file
+!BUILD
